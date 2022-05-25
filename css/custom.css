@@ -71,7 +71,7 @@ nav.pagination a:hover{background:var(--accent); color:var(--background)!importa
   .link-grid{display:grid;grid-template-columns:repeat(auto-fit, minmax(300px, 1fr)); line-height: 3em;text-align:center;}
   .details > .summary {list-style: none;outline: none; text-align:right;line-height:2em;}
   .open-me{font-size:32px; padding: 5px 10px 10px 0;     color: var(--accent2);}
-  .close-me{display:inline-block; font-size: 45px; margin:-5px 0 0 0; padding: 0px 10px 10px 0;}
+  .close-me{display:inline-block; font-size: 45px; margin:-5px 0 0 0; padding: 0px 10px 10px 0; color: var(--accent2);}
   .open-me:hover, .close-me:hover{color:crimson;cursor:pointer;}
   .details:not(details[open]) > .summary .close-me{display:none;}
   .details[open]{height:100vh;}
