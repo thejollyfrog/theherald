@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>jackal on The Herald</title>
+    <link>https://theherald.smartsprout.co.uk/tags/jackal/</link>
+    <description>Recent content in jackal on The Herald</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 03 Jul 2021 14:55:18 +0100</lastBuildDate><atom:link href="https://theherald.smartsprout.co.uk/tags/jackal/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>The Lions Share</title>
+      <link>https://theherald.smartsprout.co.uk/the-lions-share/</link>
+      <pubDate>Sat, 03 Jul 2021 14:55:18 +0100</pubDate>
+      
+      <guid>https://theherald.smartsprout.co.uk/the-lions-share/</guid>
+      <description>THE Lion went once a-hunting along with the Fox, the Jackal, and the Wolf.</description>
+    </item>
+    
+  </channel>
+</rss>
